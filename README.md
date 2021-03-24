@@ -8,6 +8,16 @@ g++ autocorrect.cpp main.cpp -std=c++11 -o test
 test
 ```
 
+# Screenshots
+
+<p align="left">
+  <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/1.jpg" width="400">
+  <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/2.jpg" width="400">
+  <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/3.jpg" width="400">
+  <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/4.jpg" width="400">
+  <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/5.jpg" width="400">
+</p>
+
 ## Author
 
 👤 **Aras Güngöre**
