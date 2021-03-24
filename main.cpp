@@ -21,14 +21,14 @@ int main() {
 			const bool &extra = AC.checkExtraLetters(), &extra2 = AC.checkExtraLetters(2), &extra3 = AC.checkExtraLetters(3);
 			const bool &missing = AC.checkMissingLetters(), &missing2 = AC.checkMissingLetters(2), &missing3 = AC.checkMissingLetters(3);
 			const bool &MandE = AC.checkMissingAndExtraLetters(), &MandE2 = AC.checkMissingAndExtraLetters(2), &MandE3 = AC.checkMissingAndExtraLetters(1, 2), &MandE4 = AC.checkMissingAndExtraLetters(2, 2);
-			const bool &all = AC.checkAll(2, 2), &all2 = AC.checkAll(2, 2, true);
+//			const bool &all = AC.checkAll(2, 2), &all2 = AC.checkAll(2, 2, true);
 			if(!(
 				   arranged
 				|| exchanged
 				|| extra || extra2 || extra3
 				|| missing || missing2 || missing3
 				|| MandE || MandE2 || MandE3 || MandE4
-				|| all || all2
+//				|| all || all2
 				))		cout << endl << "No such word exists." << endl;
 		}
 	}
