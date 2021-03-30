@@ -16,11 +16,11 @@ test
 # Screenshots
 
 <p align="left">
-    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/1.jpg" width="350" height="300">
-    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/2.jpg" width="330" height="300">
-    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/3.jpg" width="340" height="300">
-    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/4.jpg" width="330" height="300">
-    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/5.jpg" width="330" height="300">
+    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/1.jpg" width="370" height="300">
+    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/2.jpg" width="350" height="300">
+    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/3.jpg" width="360" height="300">
+    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/4.jpg" width="350" height="300">
+    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/5.jpg" width="350" height="300">
 </p>
 
 
