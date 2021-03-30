@@ -18,9 +18,9 @@ test
 <p align="left">
     <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/1.jpg" width="420" height="300">
     <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/2.jpg" width="380" height="300">
-    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/3.jpg" width="400" height="300">
-    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/4.jpg" width="400" height="300">
-    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/5.jpg" width="400" height="300">
+    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/3.jpg" width="420" height="300">
+    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/4.jpg" width="380" height="300">
+    <img alt="Screenshot" src="https://github.com/arasgungore/autocorrect/blob/main/Screenshots/5.jpg" width="420" height="300">
 </p>
 
 
