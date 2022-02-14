@@ -1,6 +1,6 @@
 # autocorrect
 
-A C++ project which suggests you possible correct spellings for the word you misspelled. Alternative spellings are suggested by checking for different letter orders, looking out for extra, missing, or faulty characters.
+A C++ project which suggests you possible correct spellings for the word you misspelled. Alternative spellings are suggested by checking for different letter orders, looking out for extra, missing, or faulty characters using algorithms created from scratch.
 
 
 
