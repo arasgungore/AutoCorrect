@@ -4,7 +4,7 @@ A C++ project which reads a word from user, looks over the English dictionary, a
 
 
 
-## Run on terminal
+## Run on Terminal
 
 ```sh
 g++ autocorrect.cpp main.cpp -std=c++11 -o test
